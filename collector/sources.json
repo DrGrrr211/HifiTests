@@ -1,0 +1,19 @@
+[
+  {"id": "hifide", "name": "hifi.de", "lang": "de", "feeds": ["https://www.hifi.de/feed", "https://www.hifi.de/feed/"]},
+  {"id": "lowbeats", "name": "LowBeats", "lang": "de", "feeds": ["https://www.lowbeats.de/feed/"]},
+  {"id": "lite", "name": "lite magazin", "lang": "de", "feeds": ["https://www.lite-magazin.de/feed/"]},
+  {"id": "fairaudio", "name": "fairaudio", "lang": "de", "feeds": ["https://www.fairaudio.de/feed/", "https://www.fairaudio.de/rss.xml"]},
+  {"id": "hifitest", "name": "HiFi Test", "lang": "de", "feeds": ["https://www.hifitest.de/rss/tests", "https://www.hifitest.de/rss", "https://www.hifitest.de/feed"]},
+  {"id": "stereo", "name": "STEREO (online)", "lang": "de", "feeds": ["https://www.stereo.de/feed/", "https://www.stereo.de/rss.xml"]},
+  {"id": "hifistatement", "name": "Hifistatement", "lang": "de", "feeds": ["https://www.hifistatement.net/?format=feed&type=rss", "https://www.hifistatement.net/tests?format=feed&type=rss"]},
+  {"id": "fidelity", "name": "FIDELITY", "lang": "de", "feeds": ["https://www.fidelity-magazin.de/feed/"]},
+  {"id": "hifiundmusik", "name": "HIFI & Musik Journal", "lang": "de", "feeds": ["https://www.hifi-musik.de/feed/"]},
+  {"id": "whathifi", "name": "What Hi-Fi?", "lang": "en", "feeds": ["https://www.whathifi.com/feeds/all", "https://www.whathifi.com/feeds.xml"]},
+  {"id": "stereophile", "name": "Stereophile", "lang": "en", "feeds": ["https://www.stereophile.com/rss.xml", "https://www.stereophile.com/equipmentreports/rss.xml"]},
+  {"id": "soundstage", "name": "SoundStage! Hi-Fi", "lang": "en", "feeds": ["https://www.soundstagehifi.com/index.php?format=feed&type=rss", "https://www.soundstagesimplifi.com/index.php?format=feed&type=rss"]},
+  {"id": "asr", "name": "Audio Science Review", "lang": "en", "feeds": ["https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss"], "forum": true},
+  {"id": "darko", "name": "Darko.Audio", "lang": "en", "feeds": ["https://darko.audio/feed/"]},
+  {"id": "headphonics", "name": "Headphonics", "lang": "en", "feeds": ["https://headphonics.com/feed/"]},
+  {"id": "headfi", "name": "Head-Fi", "lang": "en", "feeds": ["https://www.head-fi.org/forums/-/index.rss"], "forum": true},
+  {"id": "headphonesty", "name": "Headphonesty", "lang": "en", "feeds": ["https://www.headphonesty.com/feed/"]}
+]

@@ -1,1 +1,175 @@
-{"updated": null, "sources": []}
+{
+ "updated": "2026-10-26T20:01:29Z",
+ "sources": [
+  {
+   "id": "hifide",
+   "name": "hifi.de",
+   "ok": true,
+   "feed": "https://www.hifi.de/feed",
+   "items": 100,
+   "reviews": 14,
+   "new": 14,
+   "error": null
+  },
+  {
+   "id": "lowbeats",
+   "name": "LowBeats",
+   "ok": true,
+   "feed": "https://www.lowbeats.de/feed/",
+   "items": 10,
+   "reviews": 2,
+   "new": 2,
+   "error": null
+  },
+  {
+   "id": "lite",
+   "name": "lite magazin",
+   "ok": true,
+   "feed": "https://www.lite-magazin.de/feed/",
+   "items": 10,
+   "reviews": 2,
+   "new": 2,
+   "error": null
+  },
+  {
+   "id": "fairaudio",
+   "name": "fairaudio",
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
+   "new": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "id": "hifitest",
+   "name": "HiFi Test",
+   "ok": true,
+   "feed": "https://www.hifitest.de/rss/tests",
+   "items": 30,
+   "reviews": 30,
+   "new": 30,
+   "error": null
+  },
+  {
+   "id": "stereo",
+   "name": "STEREO (online)",
+   "ok": true,
+   "feed": "https://www.stereo.de/rss.xml",
+   "items": 50,
+   "reviews": 11,
+   "new": 11,
+   "error": null
+  },
+  {
+   "id": "hifistatement",
+   "name": "Hifistatement",
+   "ok": true,
+   "feed": "https://www.hifistatement.net/?format=feed&type=rss",
+   "items": 0,
+   "reviews": 0,
+   "new": 0,
+   "error": null
+  },
+  {
+   "id": "fidelity",
+   "name": "FIDELITY",
+   "ok": true,
+   "feed": "https://www.fidelity-magazin.de/feed/",
+   "items": 10,
+   "reviews": 3,
+   "new": 3,
+   "error": null
+  },
+  {
+   "id": "hifiundmusik",
+   "name": "HIFI & Musik Journal",
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
+   "new": 0,
+   "error": "ParseError: syntax error: line 1, column 0"
+  },
+  {
+   "id": "whathifi",
+   "name": "What Hi-Fi?",
+   "ok": true,
+   "feed": "https://www.whathifi.com/feeds/all",
+   "items": 50,
+   "reviews": 4,
+   "new": 4,
+   "error": null
+  },
+  {
+   "id": "stereophile",
+   "name": "Stereophile",
+   "ok": true,
+   "feed": "https://www.stereophile.com/rss.xml",
+   "items": 10,
+   "reviews": 1,
+   "new": 1,
+   "error": null
+  },
+  {
+   "id": "soundstage",
+   "name": "SoundStage! Hi-Fi",
+   "ok": true,
+   "feed": "https://www.soundstagehifi.com/index.php?format=feed&type=rss",
+   "items": 20,
+   "reviews": 0,
+   "new": 0,
+   "error": null
+  },
+  {
+   "id": "asr",
+   "name": "Audio Science Review",
+   "ok": true,
+   "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
+   "items": 20,
+   "reviews": 6,
+   "new": 6,
+   "error": null
+  },
+  {
+   "id": "darko",
+   "name": "Darko.Audio",
+   "ok": true,
+   "feed": "https://darko.audio/feed/",
+   "items": 16,
+   "reviews": 4,
+   "new": 4,
+   "error": null
+  },
+  {
+   "id": "headphonics",
+   "name": "Headphonics",
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
+   "new": 0,
+   "error": "URLError: <urlopen error timed out>"
+  },
+  {
+   "id": "headfi",
+   "name": "Head-Fi",
+   "ok": true,
+   "feed": "https://www.head-fi.org/forums/-/index.rss",
+   "items": 50,
+   "reviews": 1,
+   "new": 1,
+   "error": null
+  },
+  {
+   "id": "headphonesty",
+   "name": "Headphonesty",
+   "ok": true,
+   "feed": "https://www.headphonesty.com/feed/",
+   "items": 24,
+   "reviews": 2,
+   "new": 2,
+   "error": null
+  }
+ ]
+}

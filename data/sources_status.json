@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T20:01:29Z",
+ "updated": "2026-10-27T04:41:54Z",
  "sources": [
   {
    "id": "hifide",
@@ -8,7 +8,7 @@
    "feed": "https://www.hifi.de/feed",
    "items": 100,
    "reviews": 14,
-   "new": 14,
+   "new": 0,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
    "feed": "https://www.lowbeats.de/feed/",
    "items": 10,
    "reviews": 2,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -28,7 +28,7 @@
    "feed": "https://www.lite-magazin.de/feed/",
    "items": 10,
    "reviews": 2,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -48,7 +48,7 @@
    "feed": "https://www.hifitest.de/rss/tests",
    "items": 30,
    "reviews": 30,
-   "new": 30,
+   "new": 0,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
    "reviews": 11,
-   "new": 11,
+   "new": 0,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
    "reviews": 3,
-   "new": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -97,8 +97,8 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 4,
-   "new": 4,
+   "reviews": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -107,8 +107,8 @@
    "ok": true,
    "feed": "https://www.stereophile.com/rss.xml",
    "items": 10,
-   "reviews": 1,
-   "new": 1,
+   "reviews": 0,
+   "new": 0,
    "error": null
   },
   {
@@ -126,9 +126,9 @@
    "name": "Audio Science Review",
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
-   "items": 20,
+   "items": 19,
    "reviews": 6,
-   "new": 6,
+   "new": 3,
    "error": null
   },
   {
@@ -138,7 +138,7 @@
    "feed": "https://darko.audio/feed/",
    "items": 16,
    "reviews": 4,
-   "new": 4,
+   "new": 0,
    "error": null
   },
   {
@@ -168,7 +168,7 @@
    "feed": "https://www.headphonesty.com/feed/",
    "items": 24,
    "reviews": 2,
-   "new": 2,
+   "new": 0,
    "error": null
   }
  ]

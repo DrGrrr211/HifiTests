@@ -1,7 +1,71 @@
 {
-"updated": "2026-10-28T16:58:35Z",
-"count": 105,
+"updated": "2026-10-29T04:54:37Z",
+"count": 108,
 "reviews": [
+{
+"id": "8d5c7b45cd7de01e",
+"title": "UGreen Max5c: $25 NC Headphone Review",
+"product": "UGreen Max5c",
+"productKey": "ugreen max5c",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/ugreen-max5c-25-nc-headphone-review.58627/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-10-29T03:30:37Z",
+"category": "inear",
+"brand": null,
+"priceEur": 23,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review, detailed measurements, listening tests and EQ of the Ugreen HiTune Max5c noise cancelling wireless headphone. It is on kind loan from a member and is on sale for $25.47 (retail $57). The Max5c feels every bit as high quality as much, much more expensive …"
+},
+{
+"id": "b8115147e7019c45",
+"title": "Fosi Merak Review (CD Player)",
+"product": "Fosi Merak",
+"productKey": "fosi merak",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/fosi-merak-review-cd-player.71259/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-10-29T01:39:41Z",
+"category": "streamer",
+"brand": null,
+"priceEur": 130,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Hello Everyone, This is a review and detailed measurements of the Fosi Merak CD Player and Transport. Sorry, not the best picture ever, but done in a rush between two storms Fosi Merak - Presentation This is a low cost CD Player and actually @Rocky Rococo did a good presentation …"
+},
+{
+"id": "a29cbf2f7043fc40",
+"title": "Alle Google Pixel Buds im Vergleich – massiv unterschätzt und recht preiswert?",
+"product": "Alle Google Pixel Buds",
+"productKey": "alle google pixel buds",
+"url": "https://hifi.de/beste/alle-google-pixel-buds-im-vergleich-massiv-unterschaetzt-und-recht-preiswert-2-203411",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-10-28T17:12:53Z",
+"category": "inear",
+"brand": null,
+"priceEur": 249,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Google hat sich mit den Pixel Buds auf dem In-Ear-Markt etabliert. Wir zeigen dir unsere drei Favoriten, die mit deinem Android-Smartphone ihr volles Potenzial entfalten."
+},
 {
 "id": "5635ece2839586fd",
 "title": "Sony UBP-X700/K Review (Blu-ray/DVD/SACD/CD Transport) (NTTY)",

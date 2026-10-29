@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:54:37Z",
+ "updated": "2026-10-29T17:00:09Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 15,
-   "new": 1,
+   "reviews": 16,
+   "new": 2,
    "error": null
   },
   {
@@ -24,12 +24,12 @@
   {
    "id": "lite",
    "name": "lite magazin",
-   "ok": true,
-   "feed": "https://www.lite-magazin.de/feed/",
-   "items": 10,
-   "reviews": 2,
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
    "new": 0,
-   "error": null
+   "error": "HTTPError: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
   },
   {
    "id": "fairaudio",
@@ -48,7 +48,7 @@
    "feed": "https://www.hifitest.de/rss/tests",
    "items": 30,
    "reviews": 30,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -97,7 +97,7 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 3,
+   "reviews": 2,
    "new": 0,
    "error": null
   },
@@ -107,8 +107,8 @@
    "ok": true,
    "feed": "https://www.stereophile.com/rss.xml",
    "items": 10,
-   "reviews": 0,
-   "new": 0,
+   "reviews": 1,
+   "new": 1,
    "error": null
   },
   {
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 4,
-   "new": 2,
+   "reviews": 6,
+   "new": 5,
    "error": null
   },
   {
@@ -137,8 +137,8 @@
    "ok": true,
    "feed": "https://darko.audio/feed/",
    "items": 16,
-   "reviews": 3,
-   "new": 0,
+   "reviews": 4,
+   "new": 1,
    "error": null
   },
   {

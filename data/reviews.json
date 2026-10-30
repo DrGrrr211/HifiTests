@@ -1,7 +1,77 @@
 {
-"updated": "2026-10-29T17:00:09Z",
-"count": 118,
+"updated": "2026-10-30T04:54:34Z",
+"count": 121,
 "reviews": [
+{
+"id": "a406fa19b3a40455",
+"title": "SMSL R100 DAC Review (NTTY)",
+"product": "SMSL R100 DAC",
+"productKey": "smsl r100 dac",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/smsl-r100-dac-review-ntty.73945/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-10-30T04:22:03Z",
+"category": "dac",
+"brand": "SMSL",
+"priceEur": 279,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Koaxial"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Hello Everyone, this is a review and measurements of the SMSL R100. It was kindly sent to me by SMSL , and its price comes in at under $300. SMSL R100 - Presentation The SMSL R100 uses a very old DAC from Analog Devices, the AD1861 in its most linear version \"J\". This DAC was …"
+},
+{
+"id": "5ab970bbdb8aa0d3",
+"title": "Is the \"audiophile measurement mafia\" to blame for the hi-fi market being flooded with systems that lack audiophile dynamic range?",
+"product": "Is the \"audiophile",
+"productKey": "is audiophile",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/is-the-audiophile-measurement-mafia-to-blame-for-the-hi-fi-market-being-flooded-with-systems-that-lack-audiophile-dynamic-range.73890/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-10-30T01:52:28Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [
+"Horn",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Actual reproduced dynamics is an underrated variable among audiophiles. Among audiophiles knowledgeable in the psychology of sound perception, there is a consensus that an audiophile-system should be able to handle brief peaks exceeding 120 dB without audible distortion. Such …"
+},
+{
+"id": "b3157bda50eb3556",
+"title": "Lumin D3 – Fokussierter Klangkünstler",
+"product": "Lumin D3",
+"productKey": "lumin d3",
+"url": "https://www.lite-magazin.de/2026/10/lumin-d3-fokussierter-klangkuenstler/",
+"source": "lite magazin",
+"sourceId": "lite",
+"lang": "de",
+"date": "2026-10-29T17:00:28Z",
+"category": "dac",
+"brand": null,
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [
+"Kabellos",
+"Koaxial",
+"Offen",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": ""
+},
 {
 "id": "bdb77d4f6ba5cf64",
 "title": "Fun with vinyl measurements",

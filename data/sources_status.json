@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:51:47Z",
+ "updated": "2026-10-31T16:45:07Z",
  "sources": [
   {
    "id": "hifide",
@@ -8,7 +8,7 @@
    "feed": "https://www.hifi.de/feed",
    "items": 100,
    "reviews": 14,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -48,7 +48,7 @@
    "feed": "https://www.hifitest.de/rss/tests",
    "items": 30,
    "reviews": 30,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
-   "reviews": 13,
+   "reviews": 12,
    "new": 0,
    "error": null
   },
@@ -97,7 +97,7 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 3,
+   "reviews": 4,
    "new": 1,
    "error": null
   },
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 10,
-   "new": 6,
+   "reviews": 7,
+   "new": 5,
    "error": null
   },
   {

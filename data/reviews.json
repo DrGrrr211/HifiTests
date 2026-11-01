@@ -1,7 +1,27 @@
 {
-"updated": "2026-10-31T16:45:07Z",
-"count": 143,
+"updated": "2026-11-01T04:56:33Z",
+"count": 144,
 "reviews": [
+{
+"id": "0935d9c9a106ef7d",
+"title": "GSonic Reference – Free Stereo Room Correction Tool (Measurement + FIR Export)",
+"product": "GSonic Reference",
+"productKey": "gsonic reference",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/gsonic-reference-%E2%80%93-free-stereo-room-correction-tool-measurement-fir-export.70372/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-01T04:54:54Z",
+"category": "streamer",
+"brand": null,
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [],
+"rating": null,
+"ratingRaw": null,
+"teaser": "I released a new tool yesterday and wanted to share it here: GitHub - ObsessiveCompulsiveAudiophile/GSonic: GSonic Reference Stereo, redefined. No compromise speaker/room correction. GSonic Reference Stereo, redefined. No compromise speaker/room correction. - …"
+},
 {
 "id": "f967b0b02e2f86c7",
 "title": "Master Thread: Are Measurements Everything or Nothing?",

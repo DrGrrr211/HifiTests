@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:56:33Z",
+ "updated": "2026-11-01T16:44:36Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 14,
-   "new": 0,
+   "reviews": 18,
+   "new": 5,
    "error": null
   },
   {
@@ -17,8 +17,8 @@
    "ok": true,
    "feed": "https://www.lowbeats.de/feed/",
    "items": 10,
-   "reviews": 3,
-   "new": 0,
+   "reviews": 4,
+   "new": 1,
    "error": null
   },
   {
@@ -127,7 +127,7 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 5,
+   "reviews": 4,
    "new": 1,
    "error": null
   },
@@ -157,19 +157,19 @@
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
    "items": 50,
-   "reviews": 0,
-   "new": 0,
+   "reviews": 1,
+   "new": 1,
    "error": null
   },
   {
    "id": "headphonesty",
    "name": "Headphonesty",
-   "ok": true,
-   "feed": "https://www.headphonesty.com/feed/",
-   "items": 24,
-   "reviews": 1,
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
    "new": 0,
-   "error": null
+   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
   }
  ]
 }

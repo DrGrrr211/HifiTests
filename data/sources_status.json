@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:04:38Z",
+ "updated": "2026-11-06T16:59:31Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 29,
-   "new": 0,
+   "reviews": 25,
+   "new": 7,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
    "reviews": 9,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -77,8 +77,8 @@
    "ok": true,
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
-   "reviews": 2,
-   "new": 0,
+   "reviews": 3,
+   "new": 1,
    "error": null
   },
   {
@@ -97,19 +97,19 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 4,
-   "new": 0,
+   "reviews": 5,
+   "new": 1,
    "error": null
   },
   {
    "id": "stereophile",
    "name": "Stereophile",
-   "ok": false,
-   "feed": null,
-   "items": 0,
+   "ok": true,
+   "feed": "https://www.stereophile.com/rss.xml",
+   "items": 10,
    "reviews": 0,
    "new": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "error": null
   },
   {
    "id": "soundstage",
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 2,
-   "new": 1,
+   "reviews": 8,
+   "new": 4,
    "error": null
   },
   {
@@ -137,8 +137,8 @@
    "ok": true,
    "feed": "https://darko.audio/feed/",
    "items": 16,
-   "reviews": 5,
-   "new": 0,
+   "reviews": 6,
+   "new": 1,
    "error": null
   },
   {
@@ -156,9 +156,9 @@
    "name": "Head-Fi",
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
-   "items": 50,
-   "reviews": 0,
-   "new": 0,
+   "items": 49,
+   "reviews": 1,
+   "new": 1,
    "error": null
   },
   {

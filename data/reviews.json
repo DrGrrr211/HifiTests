@@ -1,7 +1,27 @@
 {
-"updated": "2026-11-05T17:22:14Z",
-"count": 230,
+"updated": "2026-11-06T05:04:38Z",
+"count": 231,
 "reviews": [
+{
+"id": "06e021139e40775b",
+"title": "Topping D10 Balanced Review (USB DAC)",
+"product": "Topping D10 Balanced",
+"productKey": "topping d10 balanced",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/topping-d10-balanced-review-usb-dac.25094/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-06T04:16:47Z",
+"category": "dac",
+"brand": "Topping",
+"priceEur": 129,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the new Topping D10 Balanced. It was sent to me by the company and costs US $139. The D10 Balanced as the name implies, comes in my favorite USB DAC package with the same cute orange display: Back panel is where the difference is: …"
+},
 {
 "id": "4fd3ee92797f660b",
 "title": "Focusrite Scarlett 2i2 (4th Gen) Interface Review",

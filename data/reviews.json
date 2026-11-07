@@ -1,7 +1,98 @@
 {
-"updated": "2026-11-06T16:59:31Z",
-"count": 247,
+"updated": "2026-11-07T04:58:13Z",
+"count": 251,
 "reviews": [
+{
+"id": "e82ba2d29f20906d",
+"title": "How to watch New Zealand vs Tonga: live stream Rugby League World Cup 2026 semi-final for free from anywhere",
+"product": "How to watch New Zealand vs Tonga",
+"productKey": "how to watch zealand vs tonga",
+"url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/new-zealand-vs-tonga-rugby-league-world-cup-2026-semi-final-free",
+"source": "What Hi-Fi?",
+"sourceId": "whathifi",
+"lang": "en",
+"date": "2026-11-07T04:00:00Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 21,
+"priceCurrency": "GBP",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Watch New Zealand vs Tonga live streams Breakout tournament favourites New Zealand face unbeaten Tonga in the first Rugby League World Cup 2026 semi-final, a game that pits the Kiwis' fearsome forward pack against Mate Ma'a Tonga's stubborn defence. And remarkably, just 23 days …"
+},
+{
+"id": "dbe50fef59b9fd43",
+"title": "Philips Fidelio SoundSphere DS9800W Speakers Review & Measurements -Converted to Passive (@ObjectAudio)",
+"product": "Philips Fidelio SoundSphere DS9800W Speakers",
+"productKey": "philips fidelio soundsphere ds9800w speakers",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/philips-fidelio-soundsphere-ds9800w-speakers-review-measurements-converted-to-passive-objectaudio.74081/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-07T03:41:39Z",
+"category": "lautsprecher",
+"brand": "Philips",
+"priceEur": 116,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "*Updated 6 Nov 2026: Here is an update to the review report. I remeasured the speaker in a slightly more spacious, yet relatively tight, space compared to my office, updated the layout style, and added a conclusion with an objective performance comparison against the …"
+},
+{
+"id": "33ea18b8e6218e50",
+"title": "JBL Go 5 im Test: Bewährtes Konzept, sinnvolle Upgrades",
+"product": "JBL Go 5",
+"productKey": "jbl go 5",
+"url": "https://hifi.de/test/jbl-go-5-der-test-271648",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-06T18:04:59Z",
+"category": "sonstiges",
+"brand": "JBL",
+"priceEur": 50,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos",
+"Offen"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Der JBL Go 5 leuchtet, hält länger durch und in puncto Wasserschutz auch mehr aus. Reicht das, um den beliebten Vorgänger abzulösen?"
+},
+{
+"id": "8639c2aaa9f90f5d",
+"title": "Zwischen Jazz und Psychedelisch: King Crimsons „Lizard“ in neuer Pressung",
+"product": "Zwischen Jazz und Psychedelisch",
+"productKey": "zwischen jazz psychedelisch",
+"url": "https://www.lite-magazin.de/2026/11/zwischen-jazz-und-psychedelisch-king-crimsons-lizard-in-neuer-pressung/",
+"source": "lite magazin",
+"sourceId": "lite",
+"lang": "de",
+"date": "2026-11-06T17:00:31Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 70,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Geschlossen",
+"Kabellos",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": ""
+},
 {
 "id": "2141d0e916513b1d",
 "title": "2-Way Analog Audio Switcher Review (NTTY)",

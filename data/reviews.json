@@ -1,7 +1,51 @@
 {
-"updated": "2026-11-07T16:47:41Z",
-"count": 261,
+"updated": "2026-11-08T04:58:52Z",
+"count": 263,
 "reviews": [
+{
+"id": "47a5098dd8c99812",
+"title": "How to watch Australia vs Samoa: live stream Rugby League World Cup 2026 semi-final for free from anywhere",
+"product": "How to watch Australia vs Samoa",
+"productKey": "how to watch australia vs samoa",
+"url": "https://www.whathifi.com/streaming-entertainment/how-to-watch/australia-vs-samoa-rugby-league-world-cup-2026-semi-final-free",
+"source": "What Hi-Fi?",
+"sourceId": "whathifi",
+"lang": "en",
+"date": "2026-11-08T03:00:00Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 21,
+"priceCurrency": "GBP",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Watch Australia vs Samoa live streams Reigning champions and pre-tournament favourites Australia may be unbeaten, but throughout Rugby League World Cup 2026 there's been a growing sense that they're there for the taking. Samoa have never beaten the Kangaroos, but they've …"
+},
+{
+"id": "af1ba1ceef3d6aa7",
+"title": "miniDSP Tide16 AV Processor Review",
+"product": "miniDSP Tide16 AV Processor",
+"productKey": "minidsp tide16 av processor",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/minidsp-tide16-av-processor-review.73525/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-08T02:48:48Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 3255,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the miniDSP Tide16 16 channel AV Processor (AVP). It was sent to me by the company and costs US $3,500. I like the compact dimensions of the unit. Reminds of my first processor, the Lexicon DC-1. The display is very high contrast and …"
+},
 {
 "id": "6a2ee1ddd2fbfddd",
 "title": "Hello first post Test",

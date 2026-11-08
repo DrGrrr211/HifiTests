@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:58:52Z",
+ "updated": "2026-11-08T16:46:47Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 30,
-   "new": 0,
+   "reviews": 33,
+   "new": 4,
    "error": null
   },
   {
@@ -97,7 +97,7 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 7,
+   "reviews": 8,
    "new": 1,
    "error": null
   },
@@ -127,7 +127,7 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 6,
+   "reviews": 8,
    "new": 1,
    "error": null
   },

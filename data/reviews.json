@@ -1,7 +1,55 @@
 {
-"updated": "2026-11-08T16:46:47Z",
-"count": 269,
+"updated": "2026-11-09T05:13:15Z",
+"count": 271,
 "reviews": [
+{
+"id": "e18878edf8fb7755",
+"title": "JBL Charge 6 im Test: JBLs beliebtester Bluetooth-Speaker wird noch besser",
+"product": "JBL Charge 6",
+"productKey": "jbl charge 6",
+"url": "https://hifi.de/test/jbl-charge-6-im-test-227823",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-08T17:18:58Z",
+"category": "lautsprecher",
+"brand": "JBL",
+"priceEur": 199,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos",
+"Offen"
+],
+"rating": 87,
+"ratingRaw": "8.7/10",
+"teaser": "JBLs beliebtester Bluetooth-Lautsprecher hat endlich einen Nachfolger. Wir haben die JBL Charge 6 ausführlich getestet."
+},
+{
+"id": "b6733a5e004c3b3b",
+"title": "Argon Audio Aurora: Vinyl-Komfort trifft audiophilen Anspruch",
+"product": "Argon Audio Aurora",
+"productKey": "argon audio aurora",
+"url": "https://www.lite-magazin.de/2026/11/argon-audio-aurora-vinyl-komfort-trifft-audiophilen-anspruch/",
+"source": "lite magazin",
+"sourceId": "lite",
+"lang": "de",
+"date": "2026-11-08T17:00:13Z",
+"category": "aktivlautsprecher",
+"brand": null,
+"priceEur": 70,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Geschlossen",
+"Kabellos",
+"Offen",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": ""
+},
 {
 "id": "4c360522a96f8995",
 "title": "Denon AVR-X3800H Review",

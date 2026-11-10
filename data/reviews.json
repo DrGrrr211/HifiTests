@@ -1,7 +1,51 @@
 {
-"updated": "2026-11-09T17:18:07Z",
-"count": 282,
+"updated": "2026-11-10T05:00:09Z",
+"count": 284,
 "reviews": [
+{
+"id": "9ae52622aef95bf0",
+"title": "WiiM Vibelink Amp Review",
+"product": "WiiM Vibelink Amp",
+"productKey": "wiim vibelink amp",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/wiim-vibelink-amp-review.61343/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-10T02:37:09Z",
+"category": "vollverstaerker",
+"brand": "WiiM",
+"priceEur": 278,
+"priceCurrency": "USD",
+"watt": 40,
+"technology": [
+"Class D"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the WiiM Vibelink stereo class D amplifier with DAC. It was sent to me by the company and I believe will cost US $299 [original estimatews $400.]. I was relieved from the point of view of testing that is NOT a streaming product so no …"
+},
+{
+"id": "5bb59f6c96f2f202",
+"title": "LG OLED G6 im Test: Auch die letzten Schwächen beseitigt?",
+"product": "LG OLED G6",
+"productKey": "lg oled g6",
+"url": "https://hifi.de/test/lg-oled-g6-test-auch-die-letzten-schwaechen-beseitigt-268677",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-09T17:20:33Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 1299,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Mit dem LG OLED G6 tritt der Hersteller erneut im Wettlauf um die beste Bildqualität an und hat einiges verbessert. Lies hier, wie der LG G6 im Test abschneidet."
+},
 {
 "id": "b32d4308995abee5",
 "title": "Fosi Audio V3 Amplifier Review",

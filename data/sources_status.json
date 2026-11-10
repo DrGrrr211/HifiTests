@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:18:07Z",
+ "updated": "2026-11-10T05:00:09Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 32,
-   "new": 5,
+   "reviews": 33,
+   "new": 1,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
    "feed": "https://www.lowbeats.de/feed/",
    "items": 10,
    "reviews": 3,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -48,7 +48,7 @@
    "feed": "https://www.hifitest.de/rss/tests",
    "items": 30,
    "reviews": 30,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
    "reviews": 10,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -78,7 +78,7 @@
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
    "reviews": 4,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 6,
-   "new": 2,
+   "reviews": 1,
+   "new": 1,
    "error": null
   },
   {
@@ -156,7 +156,7 @@
    "name": "Head-Fi",
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
-   "items": 49,
+   "items": 50,
    "reviews": 0,
    "new": 0,
    "error": null

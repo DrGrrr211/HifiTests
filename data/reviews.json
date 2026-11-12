@@ -1,7 +1,30 @@
 {
-"updated": "2026-11-11T17:03:05Z",
-"count": 308,
+"updated": "2026-11-12T05:08:38Z",
+"count": 309,
 "reviews": [
+{
+"id": "6ea61c0e755ba318",
+"title": "VTV Purifi Amplifier Review with Weiss Buffer",
+"product": "VTV Purifi Amplifier",
+"productKey": "vtv purifi amplifier",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/vtv-purifi-amplifier-review-with-weiss-buffer.24887/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-12T04:58:23Z",
+"category": "vollverstaerker",
+"brand": "Weiss",
+"priceEur": 1944,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Class D",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the VTV Purifi class-D amplifier with the optional Weiss OP2-BA Op-amp (buffer/input gain stage). It is on kind loan from a member and costs US $2,090. I just reviewed the same amp but with SIL 994EnH-Ticha Pro buffer so you can …"
+},
 {
 "id": "9458fe394ecac689",
 "title": "SONY Bravia 9 II im Test: Angriff auf die OLEDs hat uns sehr überrascht",

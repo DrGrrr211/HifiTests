@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:08:38Z",
+ "updated": "2026-11-12T17:11:24Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 29,
-   "new": 0,
+   "reviews": 23,
+   "new": 7,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
    "feed": "https://www.lowbeats.de/feed/",
    "items": 10,
    "reviews": 3,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -28,7 +28,7 @@
    "feed": "https://www.lite-magazin.de/feed/",
    "items": 10,
    "reviews": 2,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
-   "reviews": 10,
+   "reviews": 8,
    "new": 0,
    "error": null
   },
@@ -77,7 +77,7 @@
    "ok": true,
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
-   "reviews": 3,
+   "reviews": 2,
    "new": 0,
    "error": null
   },
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 6,
-   "new": 1,
+   "reviews": 3,
+   "new": 0,
    "error": null
   },
   {
@@ -164,12 +164,12 @@
   {
    "id": "headphonesty",
    "name": "Headphonesty",
-   "ok": true,
-   "feed": "https://www.headphonesty.com/feed/",
-   "items": 24,
-   "reviews": 1,
+   "ok": false,
+   "feed": null,
+   "items": 0,
+   "reviews": 0,
    "new": 0,
-   "error": null
+   "error": "ParseError: not well-formed (invalid token): line 372, column 127"
   }
  ]
 }

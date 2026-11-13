@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:06:37Z",
+ "updated": "2026-11-13T17:01:12Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 24,
-   "new": 1,
+   "reviews": 25,
+   "new": 8,
    "error": null
   },
   {
@@ -48,7 +48,7 @@
    "feed": "https://www.hifitest.de/rss/tests",
    "items": 30,
    "reviews": 30,
-   "new": 0,
+   "new": 1,
    "error": null
   },
   {
@@ -57,8 +57,8 @@
    "ok": true,
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
-   "reviews": 8,
-   "new": 0,
+   "reviews": 9,
+   "new": 1,
    "error": null
   },
   {
@@ -77,8 +77,8 @@
    "ok": true,
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
-   "reviews": 2,
-   "new": 0,
+   "reviews": 3,
+   "new": 1,
    "error": null
   },
   {
@@ -97,8 +97,8 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 6,
-   "new": 1,
+   "reviews": 3,
+   "new": 2,
    "error": null
   },
   {
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 7,
-   "new": 3,
+   "reviews": 5,
+   "new": 0,
    "error": null
   },
   {
@@ -157,8 +157,8 @@
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
    "items": 50,
-   "reviews": 0,
-   "new": 0,
+   "reviews": 1,
+   "new": 1,
    "error": null
   },
   {
@@ -169,7 +169,7 @@
    "items": 0,
    "reviews": 0,
    "new": 0,
-   "error": "ParseError: not well-formed (invalid token): line 372, column 127"
+   "error": "ParseError: not well-formed (invalid token): line 627, column 127"
   }
  ]
 }

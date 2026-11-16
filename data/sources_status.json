@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:37:29Z",
+ "updated": "2026-11-16T17:22:27Z",
  "sources": [
   {
    "id": "hifide",
@@ -7,8 +7,8 @@
    "ok": true,
    "feed": "https://www.hifi.de/feed",
    "items": 100,
-   "reviews": 26,
-   "new": 2,
+   "reviews": 25,
+   "new": 5,
    "error": null
   },
   {
@@ -18,7 +18,7 @@
    "feed": "https://www.lowbeats.de/feed/",
    "items": 10,
    "reviews": 3,
-   "new": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -27,8 +27,8 @@
    "ok": true,
    "feed": "https://www.lite-magazin.de/feed/",
    "items": 10,
-   "reviews": 2,
-   "new": 1,
+   "reviews": 1,
+   "new": 0,
    "error": null
   },
   {
@@ -57,8 +57,8 @@
    "ok": true,
    "feed": "https://www.stereo.de/rss.xml",
    "items": 50,
-   "reviews": 9,
-   "new": 0,
+   "reviews": 10,
+   "new": 1,
    "error": null
   },
   {
@@ -77,8 +77,8 @@
    "ok": true,
    "feed": "https://www.fidelity-magazin.de/feed/",
    "items": 10,
-   "reviews": 3,
-   "new": 0,
+   "reviews": 4,
+   "new": 1,
    "error": null
   },
   {
@@ -97,8 +97,8 @@
    "ok": true,
    "feed": "https://www.whathifi.com/feeds/all",
    "items": 50,
-   "reviews": 6,
-   "new": 0,
+   "reviews": 8,
+   "new": 2,
    "error": null
   },
   {
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 6,
-   "new": 5,
+   "reviews": 8,
+   "new": 4,
    "error": null
   },
   {
@@ -149,16 +149,16 @@
    "items": 0,
    "reviews": 0,
    "new": 0,
-   "error": "URLError: <urlopen error [Errno 113] No route to host>"
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "id": "headfi",
    "name": "Head-Fi",
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
-   "items": 49,
-   "reviews": 0,
-   "new": 0,
+   "items": 50,
+   "reviews": 2,
+   "new": 2,
    "error": null
   },
   {

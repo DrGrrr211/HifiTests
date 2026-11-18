@@ -1,7 +1,53 @@
 {
-"updated": "2026-11-17T17:13:12Z",
-"count": 399,
+"updated": "2026-11-18T05:10:08Z",
+"count": 401,
 "reviews": [
+{
+"id": "a4de368092b111b8",
+"title": "Genelec 8341A SAM™ Studio Monitor Review",
+"product": "Genelec 8341A SAM™ Studio Monitor",
+"productKey": "genelec 8341a sam studio monitor",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/genelec-8341a-sam%E2%84%A2-studio-monitor-review.11652/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-18T04:36:19Z",
+"category": "lautsprecher",
+"brand": "Genelec",
+"priceEur": 5487,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Koaxial",
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the Genelec 8341A SAM™ Studio Monitor (powered speaker). It is on kind loan from a member. Despite its small size, this is an expensive monitor, costing US $5,900 for a pair. Of course you get amplification as part of the package. …"
+},
+{
+"id": "2b0796795f8a3d59",
+"title": "TCL C7L im Test: So viel Bildqualität für diesen Preis",
+"product": "TCL C7L",
+"productKey": "tcl c7l",
+"url": "https://hifi.de/test/der-tcl-c7l-im-test-279185",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-17T18:22:22Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 1000,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos",
+"Offen"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Der Mini-LED-Fernseher TCL C7L ist mit der \"Super Quantum Dot Technik\" ausgestattet. Was das für Vorteile bringt, haben wir getestet."
+},
 {
 "id": "d627dffdf14d7e84",
 "title": "Elgato Wave Go – Der Audio-Allrounder, nicht nur für Content Creator",

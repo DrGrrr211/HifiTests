@@ -1,7 +1,29 @@
 {
-"updated": "2026-11-18T17:15:41Z",
-"count": 408,
+"updated": "2026-11-19T05:14:47Z",
+"count": 409,
 "reviews": [
+{
+"id": "e6f58c0b369c4531",
+"title": "Soundcore Liberty 5 Pro Max im Test: Das neue Mega-Flaggschiff",
+"product": "Soundcore Liberty 5 Pro Max",
+"productKey": "soundcore liberty 5 pro max",
+"url": "https://hifi.de/test/soundcore-liberty-5-pro-max-test-275137",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-18T17:22:57Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 100,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Die Soundcore Liberty 5 Pro Max sind das teuerste Flaggschiff, das wir jemals von Soundcore gesehen haben. Aber zahlt sich der hohe Preis auch aus?"
+},
 {
 "id": "ba5bf346501dacac",
 "title": "Adam T8V Studio Monitor Review",

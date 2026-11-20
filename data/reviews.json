@@ -1,7 +1,71 @@
 {
-"updated": "2026-11-19T17:15:41Z",
-"count": 414,
+"updated": "2026-11-20T05:10:10Z",
+"count": 417,
 "reviews": [
+{
+"id": "90cefa0bece67c63",
+"title": "Kimber KS 1036 Silver RCA Cable Review",
+"product": "Kimber KS 1036 Silver RCA Cable",
+"productKey": "kimber ks 1036 silver rca cable",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/kimber-ks-1036-silver-rca-cable-review.70121/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-20T04:49:16Z",
+"category": "vor_endstufe",
+"brand": null,
+"priceEur": 4204,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Elektrostatisch"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the Kimber Kable KS1036 \"Silver\" RCA Cable. It is on kind loan from a member and costs US $4,520 for a pair (1 meter). While I did not care for the cheap plastic box it came in, the cable itself has a bit of style with that loose …"
+},
+{
+"id": "3aebaeaf694a70b5",
+"title": "Nordost SuperFlatLine Speaker Cable Review",
+"product": "Nordost SuperFlatLine Speaker Cable",
+"productKey": "nordost superflatline speaker cable",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/nordost-superflatline-speaker-cable-review.45615/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-20T03:54:50Z",
+"category": "vor_endstufe",
+"brand": null,
+"priceEur": 335,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a review and detailed measurements of the Nordost SuperFlatLine speaker cable. It is on kind loan from a member and costs US $360. As you see, the cable name is fully descriptive with parallel copper traces running from one end to the other. The edges of the cable are …"
+},
+{
+"id": "bf2dfd9a49d621da",
+"title": "Bose QuietComfort Ultra Headphones (2. Gen.) im Test – noch besser als der Vorgänger?",
+"product": "Bose QuietComfort Ultra Headphones (2. Gen.)",
+"productKey": "bose quietcomfort ultra headphones 2 gen",
+"url": "https://hifi.de/test/bose-quietcomfort-ultra-headphones-2-gen-im-test-242521",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-19T17:22:58Z",
+"category": "kopfhoerer_overear",
+"brand": "Bose",
+"priceEur": 499,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": 90,
+"ratingRaw": "9.0/10",
+"teaser": "Der Bose QuietComfort Ultra Headphones (2. Gen.) soll sich in einigen Punkten verbessert haben, ist aber im Grunde eine Kopie des Vorgängers. Wir haben den Over-Ear-Kopfhörer getestet."
+},
 {
 "id": "f93c20af505dae18",
 "title": "Supra Cables Digital RCA Excalibur – Nobler Leiter für digitale Audio-Daten",

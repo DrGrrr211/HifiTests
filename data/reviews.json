@@ -1,7 +1,29 @@
 {
-"updated": "2026-11-21T16:54:51Z",
-"count": 441,
+"updated": "2026-11-22T05:05:52Z",
+"count": 442,
 "reviews": [
+{
+"id": "c1efeeb2e26d95f2",
+"title": "GR Research Speaker Upgrade Review (Sierra-2EX V2)",
+"product": "GR Research Speaker Upgrade",
+"productKey": "gr research speaker upgrade",
+"url": "https://www.audiosciencereview.com/forum/index.php?threads/gr-research-speaker-upgrade-review-sierra-2ex-v2.71144/",
+"source": "Audio Science Review",
+"sourceId": "asr",
+"lang": "en",
+"date": "2026-11-22T04:04:41Z",
+"category": "lautsprecher",
+"brand": null,
+"priceEur": 474,
+"priceCurrency": "USD",
+"watt": null,
+"technology": [
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "This is a detailed review and measurements of a speaker modified by GR Research and compared to factory performance. The modification kit costs US $510 that you have to assemble: I know, not much to look at. But the left one was upgraded by the Ascend founder/designer Dave to …"
+},
 {
 "id": "a42c50069030ea05",
 "title": "Meyer Sound Amie Monitor Review",

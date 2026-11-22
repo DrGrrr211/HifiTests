@@ -1,7 +1,95 @@
 {
-"updated": "2026-11-22T05:05:52Z",
-"count": 442,
+"updated": "2026-11-22T16:55:52Z",
+"count": 446,
 "reviews": [
+{
+"id": "d0095964432024f1",
+"title": "Focal Stellia Review, Measurements, Interview - Head-Fi TV",
+"product": "Focal Stellia",
+"productKey": "focal stellia",
+"url": "https://www.head-fi.org/threads/focal-stellia-review-measurements-interview-head-fi-tv.899912/",
+"source": "Head-Fi",
+"sourceId": "headfi",
+"lang": "en",
+"date": "2026-11-22T16:12:59Z",
+"category": "kopfhoerer_overear",
+"brand": "Focal",
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [
+"Geschlossen"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Focal Stellia Review, Measurements, Interview - Head-Fi TV NOTE: If you can't see the embedded video above, please CLICK HERE to see the video. ​ We take a look at Focal's new flagship closed-back over-ear headphone, the Focal Stellia. We interview Focal's Nicolas Debard who …"
+},
+{
+"id": "62bcb9c139cb9b9b",
+"title": "HarmonicDyne Romantic Review",
+"product": "HarmonicDyne Romantic",
+"productKey": "harmonicdyne romantic",
+"url": "https://www.head-fi.org/threads/harmonicdyne-romantic-review.980600/",
+"source": "Head-Fi",
+"sourceId": "headfi",
+"lang": "en",
+"date": "2026-11-22T16:02:40Z",
+"category": "kopfhoerer_overear",
+"brand": "FiiO",
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [
+"Offen"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Pictures provide from Audio-files Specifications: Driver: Bamboo Fibe Audio-files site Dynamic Design: Open-Back Impedance: 64Ω @ 1kHz Sensitivity: 107dB SPL/mW @ 1kHz Frequency Response: 10Hz - 50kHz THD: ≤0.2% @ 1kHz Testing Gear: FiiO BTR15, Fosi... Read more"
+},
+{
+"id": "22725b3d9659c60f",
+"title": "TCL C7K im Test: Ein echtes Schwergewicht in seiner TV-Klasse?",
+"product": "TCL C7K",
+"productKey": "tcl c7k",
+"url": "https://hifi.de/test/tcl-c7k-im-test-ein-echtes-schwergewicht-in-seiner-tv-klasse-2-234996",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-22T11:19:54Z",
+"category": "lautsprecher",
+"brand": null,
+"priceEur": 1000,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Der TCL C7K bringt starke Mini-LED-Technik, ein neues Lautsprecher-System und Google-TV-Apps mit. Und das für unter 1000 Euro. Eine Kampfansage für die OLED-TVs?"
+},
+{
+"id": "5e5fb407aba33225",
+"title": "Sonos Ace Ultra im Test: Im zweiten Anlauf zum Erfolg?",
+"product": "Sonos Ace Ultra",
+"productKey": "sonos ace ultra",
+"url": "https://hifi.de/test/sonos-ace-ultra-im-test-285111",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-22T07:11:37Z",
+"category": "kopfhoerer_overear",
+"brand": "Sonos",
+"priceEur": 449,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "Mit dem Ace Ultra stellt Sonos seinen zweiten Kopfhörer vor. Kann er die Last des Vorgängers abwerfen?"
+},
 {
 "id": "c1efeeb2e26d95f2",
 "title": "GR Research Speaker Upgrade Review (Sierra-2EX V2)",

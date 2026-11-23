@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:55:52Z",
+ "updated": "2026-11-23T05:28:25Z",
  "sources": [
   {
    "id": "hifide",
@@ -8,7 +8,7 @@
    "feed": "https://www.hifi.de/feed",
    "items": 100,
    "reviews": 11,
-   "new": 2,
+   "new": 0,
    "error": null
   },
   {
@@ -27,8 +27,8 @@
    "ok": true,
    "feed": "https://www.lite-magazin.de/feed/",
    "items": 10,
-   "reviews": 2,
-   "new": 0,
+   "reviews": 3,
+   "new": 1,
    "error": null
   },
   {
@@ -114,12 +114,12 @@
   {
    "id": "soundstage",
    "name": "SoundStage! Hi-Fi",
-   "ok": false,
-   "feed": null,
-   "items": 0,
+   "ok": true,
+   "feed": "https://www.soundstagehifi.com/index.php?format=feed&type=rss",
+   "items": 20,
    "reviews": 0,
    "new": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "error": null
   },
   {
    "id": "asr",
@@ -127,8 +127,8 @@
    "ok": true,
    "feed": "https://www.audiosciencereview.com/forum/index.php?forums/-/index.rss",
    "items": 20,
-   "reviews": 4,
-   "new": 0,
+   "reviews": 7,
+   "new": 1,
    "error": null
   },
   {
@@ -149,16 +149,16 @@
    "items": 0,
    "reviews": 0,
    "new": 0,
-   "error": "URLError: <urlopen error [Errno 113] No route to host>"
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "id": "headfi",
    "name": "Head-Fi",
    "ok": true,
    "feed": "https://www.head-fi.org/forums/-/index.rss",
-   "items": 49,
-   "reviews": 2,
-   "new": 2,
+   "items": 50,
+   "reviews": 0,
+   "new": 0,
    "error": null
   },
   {

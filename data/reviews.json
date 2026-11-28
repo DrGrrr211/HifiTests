@@ -1,7 +1,97 @@
 {
-"updated": "2026-11-27T13:50:12Z",
-"count": 505,
+"updated": "2026-11-28T00:02:11Z",
+"count": 510,
 "reviews": [
+{
+"id": "75d2b5994732d399",
+"title": "Samsung HW-Q995GH im Test: Unsere neue Nummer 1 fällt nur in einem Punkt durch",
+"product": "Samsung HW-Q995GH",
+"productKey": "samsung hw q995gh",
+"url": "https://hifi.de/test/samsung-hw-q995gh-im-test-unsere-neue-nummer-1-faellt-nur-in-einem-punkt-durch-2-268783",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-27T17:13:07Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 1699,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos",
+"Koaxial"
+],
+"rating": 91,
+"ratingRaw": "9.1/10",
+"teaser": "Samsung kann Soundbar, das wissen wir. Warum auch die HW-Q995GH wieder überzeugt – und wo wir dringen Nachholbedarf sehen –, zeigt der Test."
+},
+{
+"id": "9d6c0c4f2891e7c7",
+"title": "LG C6 vs. LG G6: Die beste OLED-Wahl aus Mittelklasse und Top-Modell für dich",
+"product": "LG C6 vs. LG G6",
+"productKey": "lg c6 vs lg g6",
+"url": "https://hifi.de/vergleich/lg-c6-vs-lg-g6-die-beste-oled-wahl-aus-mittelklasse-und-top-modell-fuer-dich-279131",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-27T16:35:14Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 1799,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "LG macht tolle OLED-Fernseher. Und das in verschiedenen Preisklassen. Mittelklasse C6 vs. Spitzenmodell G6 – welcher TV passt besser zu dir?"
+},
+{
+"id": "547e25fbb804b157",
+"title": "TCL C7L im Test: So viel Bildqualität für diesen Preis",
+"product": "TCL C7L",
+"productKey": "tcl c7l",
+"url": "https://hifi.de/test/tcl-c7l-im-test-so-viel-bildqualitaet-fuer-diesen-preis-2-279185",
+"source": "hifi.de",
+"sourceId": "hifide",
+"lang": "de",
+"date": "2026-11-27T15:49:22Z",
+"category": "sonstiges",
+"brand": null,
+"priceEur": 1799,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Kabellos",
+"Offen"
+],
+"rating": 90,
+"ratingRaw": "9.0/10",
+"teaser": "Der Mini-LED-Fernseher TCL C7L ist mit der \"Super Quantum Dot Technik\" ausgestattet. Was das für Vorteile bringt, haben wir getestet."
+},
+{
+"id": "4c3eed66f4668a1e",
+"title": "AudioQuest DragonFly Copper USB D/A headphone amplifier Measurements",
+"product": "AudioQuest DragonFly Copper USB D/A headphone amplifier",
+"productKey": "audioquest dragonfly copper usb d a headphone amplifier",
+"url": "http://www.stereophile.com/content/audioquest-dragonfly-copper-usb-da-headphone-amplifier-measurements",
+"source": "Stereophile",
+"sourceId": "stereophile",
+"lang": "en",
+"date": "2026-11-27T14:16:51Z",
+"category": "kopfhoererverstaerker",
+"brand": "AudioQuest",
+"priceEur": null,
+"priceCurrency": null,
+"watt": null,
+"technology": [
+"Röhre"
+],
+"rating": null,
+"ratingRaw": null,
+"teaser": "AudioQuest DragonFly Copper USB D/A headphone amplifier Measurements John Atkinson Fri, 11/27/2026 - 06:16 Show Promo Image 0 0"
+},
 {
 "id": "c976ad81a1941d9d",
 "title": "Audio by Van Alstine ABX Comparator Review",
@@ -68,6 +158,31 @@
 "rating": null,
 "ratingRaw": null,
 "teaser": "It’s easy to get lost in the Black Friday sales, especially when shopping for a new home movie setup. Loads of flagship OLEDs get discounted just enough to make you think, “maybe I could magic that extra four hundred somehow”. Then the bottom-end cheap sets drop to rock-bottom …"
+},
+{
+"id": "b66b08a2465bf0f7",
+"title": "Test Kompaktbox Piega ORIGIN 4.0: Holz in der Hütten",
+"product": "Test Kompaktbox Piega ORIGIN 4.0",
+"productKey": "test kompaktbox piega origin 4 0",
+"url": "https://www.lowbeats.de/test-kompaktbox-piega-origin-4-0-holz-in-der-huetten/",
+"source": "LowBeats",
+"sourceId": "lowbeats",
+"lang": "de",
+"date": "2026-11-27T09:10:32Z",
+"category": "regallautsprecher",
+"brand": "Piega",
+"priceEur": 1500,
+"priceCurrency": "EUR",
+"watt": null,
+"technology": [
+"Bändchen",
+"Kabellos",
+"Offen",
+"Röhre"
+],
+"rating": 90,
+"ratingRaw": "4.5/5",
+"teaser": "Als Piega Mitte der 1990er Jahre in Deutschland ziemlich bekannt wurde, lag das vor allem an einer Standbox namens Piega LDR 6.2, die bei Audio einen fantastischen Test einheimste. Als …"
 },
 {
 "id": "0698303e7e41d1a1",
